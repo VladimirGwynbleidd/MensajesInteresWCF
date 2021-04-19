@@ -1,0 +1,6 @@
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.EN\bin\Debug\MensajesInteres.EN.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.EN\bin\Debug\MensajesInteres.EN.pdb
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.EN\obj\Debug\MensajesInteres.EN.csprojAssemblyReference.cache
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.EN\obj\Debug\MensajesInteres.EN.csproj.CoreCompileInputs.cache
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.EN\obj\Debug\MensajesInteres.EN.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.EN\obj\Debug\MensajesInteres.EN.pdb

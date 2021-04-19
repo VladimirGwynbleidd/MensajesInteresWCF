@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MensajesInteresWCF", "MensajesInteresWCF\", "{6A243FFC-3429-4073-9E41-39C9F4D18D4A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{60a3b15f-d717-4f2e-8fd7-4378e3d79a6d}|MensajesInteres.BI.dll;{6862facf-e586-47d1-a521-8d3a2d445176}|MensajesInteres.EN.dll;{6651FB11-9424-4167-8C92-C1515D59EFE3}|MensajesInteres.PI.dll;{9A5ADE52-F1E3-4D8C-AD03-F28BB27A265C}|MensajesInteres.DAO.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55516"
+		Debug.AspNetCompiler.PhysicalPath = "MensajesInteresWCF\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55516\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55516"
+		Release.AspNetCompiler.PhysicalPath = "MensajesInteresWCF\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55516\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55516"
+		SlnRelativePath = "MensajesInteresWCF\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajesInteres.DAO", "MensajesInteres.DAO\MensajesInteres.DAO.csproj", "{9A5ADE52-F1E3-4D8C-AD03-F28BB27A265C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajesInteres.BI", "MensajesInteres.BI\MensajesInteres.BI.csproj", "{60A3B15F-D717-4F2E-8FD7-4378E3D79A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajesInteres.PI", "MensajesInteres.PI\MensajesInteres.PI.csproj", "{6651FB11-9424-4167-8C92-C1515D59EFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajesInteres.EN", "MensajesInteres.EN\MensajesInteres.EN.csproj", "{6862FACF-E586-47D1-A521-8D3A2D445176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A243FFC-3429-4073-9E41-39C9F4D18D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A243FFC-3429-4073-9E41-39C9F4D18D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A243FFC-3429-4073-9E41-39C9F4D18D4A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A243FFC-3429-4073-9E41-39C9F4D18D4A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{9A5ADE52-F1E3-4D8C-AD03-F28BB27A265C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5ADE52-F1E3-4D8C-AD03-F28BB27A265C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5ADE52-F1E3-4D8C-AD03-F28BB27A265C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5ADE52-F1E3-4D8C-AD03-F28BB27A265C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A3B15F-D717-4F2E-8FD7-4378E3D79A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A3B15F-D717-4F2E-8FD7-4378E3D79A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A3B15F-D717-4F2E-8FD7-4378E3D79A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A3B15F-D717-4F2E-8FD7-4378E3D79A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6651FB11-9424-4167-8C92-C1515D59EFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6651FB11-9424-4167-8C92-C1515D59EFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6651FB11-9424-4167-8C92-C1515D59EFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6651FB11-9424-4167-8C92-C1515D59EFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6862FACF-E586-47D1-A521-8D3A2D445176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6862FACF-E586-47D1-A521-8D3A2D445176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6862FACF-E586-47D1-A521-8D3A2D445176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6862FACF-E586-47D1-A521-8D3A2D445176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1C434C-381B-4D85-ABC0-14E92BB7F937}
+	EndGlobalSection
+EndGlobal

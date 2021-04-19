@@ -1,0 +1,17 @@
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.PI.dll.config
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.PI.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.PI.pdb
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.DAO.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.EN.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\Newtonsoft.Json.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.DAO.pdb
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.DAO.dll.config
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\MensajesInteres.EN.pdb
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\bin\Debug\Newtonsoft.Json.xml
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\obj\Debug\MensajesInteres.PI.csprojAssemblyReference.cache
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\obj\Debug\MensajesInteres.PI.csproj.CoreCompileInputs.cache
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\obj\Debug\MensajesInteres.PI.csproj.CopyComplete
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\obj\Debug\MensajesInteres.PI.dll
+C:\VS2019\MensajesInteresWCF\MensajesInteresWCF\MensajesInteres.PI\obj\Debug\MensajesInteres.PI.pdb
